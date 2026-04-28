@@ -21,7 +21,7 @@ El proyecto estudia la distribución del dinero, la curva de Lorenz, el índice 
 
 ## Objetivo
 
-Analizar cómo cambian las distribuciones de dinero en sistemas cerrados de agentes y comparar el comportamiento estadístico entre modelos aditivos y multiplicativos.
+Analizar cómo cambian las distribuciones de dinero en sistemas cerrados de agentes y comparar el comportamiento estadístico entre los modelos aditivo y multiplicativo.
 
 ## Resultados que se estudian
 
